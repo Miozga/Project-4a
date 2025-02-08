@@ -5,3 +5,16 @@ div {
   cursor: pointer;
   background-color: black;
 }
+h1 {
+  font-size: 36px; /* Wielkość czcionki */
+  font-weight: bold; /* Pogrubienie tekstu */
+  color: #333; /* Kolor tekstu */
+  text-align: center; /* Wyśrodkowanie tekstu */
+  text-transform: uppercase; /* Zamiana liter na wielkie */
+  letter-spacing: 2px; /* Odstępy między literami */
+  margin: 20px 0; /* Marginesy */
+  padding: 10px; /* Wewnętrzny odstęp */
+  background-color: #f4f4f4; /* Kolor tła */
+  border-radius: 10px; /* Zaokrąglenie rogów */
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Cień */
+}
